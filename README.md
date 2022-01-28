@@ -1,0 +1,1 @@
+- 👋 Ola, Meu nome é Alexandre Junior, tenho 22 anos e atualmente curso Sistemas de Informação.
