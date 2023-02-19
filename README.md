@@ -1,15 +1,15 @@
 ## 👋 Ola, Meu nome é Alexandre Junior!
-<div align="center">
+<div>
   <a href="https://github.com/AlexandreMMJr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMJr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMJr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Alex-gif" height="130" width="130"src="https://c.tenor.com/OwSeqKgFuzQAAAAi/bill-cipher-dancing.gif">
+  <img align="center" alt="Alex-gif" height="130" width="130"src="https://c.tenor.com/OwSeqKgFuzQAAAAi/bill-cipher-dancing.gif">
 </div>
   
 ##
