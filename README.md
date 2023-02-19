@@ -8,11 +8,21 @@
 </a>
   </div>
 <div style="display: inline_block"><br>
+ <a href="https://github.com/AlexandreMMJr">
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ </a>
+ <a href="https://github.com/AlexandreMMJr">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ </a>
+  <a href="https://github.com/AlexandreMMJr">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ </a>
+ <a href="https://github.com/AlexandreMMJr">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </a>
+ <a href="https://github.com/AlexandreMMJr">
   <img align="center" alt="Alex-gif" height="30" width="40"src="https://c.tenor.com/OwSeqKgFuzQAAAAi/bill-cipher-dancing.gif">
+ </a>
 </div>
   
 ## Contact
