@@ -1,4 +1,4 @@
-## 👋 Ola, Meu nome é Alexandre Junior!
+## 👋 Olá, Meu nome é Alexandre Junior!
  <div>
 <a href="https://github.com/AlexandreMMJr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&line_height=27&count_private=true&theme=tokyonight"/>
@@ -15,7 +15,7 @@
   <img align="center" alt="Alex-gif" height="30" width="40"src="https://c.tenor.com/OwSeqKgFuzQAAAAi/bill-cipher-dancing.gif">
 </div>
   
-##
+## Contact
   
 <div> 
   <a href="https://instagram.com/alexandremmj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
