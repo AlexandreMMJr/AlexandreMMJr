@@ -1,7 +1,7 @@
 ## 👋 Olá, Meu nome é Alexandre Junior!
  <div>
 <a href="https://github.com/AlexandreMMJr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&line_height=27&count_private=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true"/>
 </a>
 <a href="https://github.com/AlexandreMMJr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMJr&langs_count=3&theme=tokyonight"/>
