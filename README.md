@@ -1,11 +1,11 @@
 ## 👋 Ola, Meu nome é Alexandre Junior!
  <div>
-  <a href="https://github.com/AlexandreMMJr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&include_all_commits=true&count_private=true&show_icons=true">
-  </a>
-  <a href="https://github.com/AlexandreMMJr">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMJr&layout=compact&include_all_commits=true&count_private=true&show_icons=true">
-  </a>
+<a href="https://github.com/AlexandreMMJr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMJr&show_icons=true&line_height=27&count_private=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/AlexandreMMJr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMJr&langs_count=3&theme=tokyonight"/>
+</a>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
